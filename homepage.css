@@ -162,3 +162,44 @@ p{
     font-size: 1.5em;
     margin-bottom: 10px;
 }
+
+.saran-section {
+    background-color:#e9ecef;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+.saran-section h2 {
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.saran-form {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.saran-form input,
+.saran-form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+.saran-form button {
+    background-color: #0056b3;
+    /* color: white; */
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.saran-form button:hover {
+    background-color: #003d82;
+}
